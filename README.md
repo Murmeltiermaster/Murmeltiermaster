@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI learning to detect Objects
 - 📫 How to reach me: murmeltier8000@freenet.de
 - 😄 Pronouns: ...
-- ⚡ Fun fact: The world is on the AI drug but the truth is all our AI's cant even pell one potatoe.
+- ⚡ Fun fact: The world is on the AI drug but the truth is all our AI's cant even peel one potatoe.
 
 <!---
 Murmeltiermaster/Murmeltiermaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
